@@ -1,0 +1,6 @@
+{
+  "name": "InvoicePro",
+  "description": "Professional Invoices. Simplified Business. Free, local-first GST and non-GST invoice generator for shop owners, retailers, and freelancers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
